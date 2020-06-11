@@ -1,0 +1,18 @@
+[submodule "velocity"]
+	path = velocity
+	url = https://github.com/TrixCMS-V-2/trixcore-minecraft-velocity.git
+[submodule "bungee"]
+	path = bungee
+	url = https://github.com/TrixCMS-V-2/trixcore-minecraft-bungee.git
+[submodule "sponge"]
+	path = sponge
+	url = https://github.com/TrixCMS-V-2/trixcore-minecraft-sponge.git
+[submodule "bukkit"]
+	path = bukkit
+	url = https://github.com/TrixCMS-V-2/trixcore-minecraft-bukkit.git
+[submodule "api"]
+	path = api
+	url = https://github.com/TrixCMS-V-2/trixcore-minecraft-api.git
+[submodule "common"]
+	path = common
+	url = https://github.com/TrixCMS-V-2/trixcore-minecraft-common.git
