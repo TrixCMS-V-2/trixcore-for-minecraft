@@ -15,11 +15,11 @@ Pour télécharger TrixCore vous avez deux options :
 
 ### Versions
 
-- [TrixCore (all-ine-one) v1.0.1](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.1/trixcore.jar)
-- [TrixCore (bukkit) v1.0.1](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.1/trixcore-bukkit-1.0.1.jar) [![](https://jitpack.io/v/eu.trixcms/trixcore-minecraft-sponge.svg)](https://jitpack.io/#eu.trixcms/trixcore-minecraft-bukkit)
-- [TrixCore (bungee) v1.0.1](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.1/trixcore-bungee-1.0.1.jar) [![](https://jitpack.io/v/eu.trixcms/trixcore-minecraft-sponge.svg)](https://jitpack.io/#eu.trixcms/trixcore-minecraft-bungee)
-- [TrixCore (sponge) v1.0.1](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.1/trixcore-sponge-1.0.1.jar) [![](https://jitpack.io/v/eu.trixcms/trixcore-minecraft-sponge.svg)](https://jitpack.io/#eu.trixcms/trixcore-minecraft-sponge)
-- [TrixCore (velocity) v1.0.1](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.1/trixcore-velocity-1.0.1.jar) [![](https://jitpack.io/v/eu.trixcms/trixcore-minecraft-sponge.svg)](https://jitpack.io/#eu.trixcms/trixcore-minecraft-velocity)
+- [TrixCore (all-ine-one) v1.0.2](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.2/trixcore.jar)
+- [TrixCore (bukkit) v1.0.2](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.2/trixcore-bukkit-1.0.2.jar) [![](https://jitpack.io/v/eu.trixcms/trixcore-minecraft-sponge.svg)](https://jitpack.io/#eu.trixcms/trixcore-minecraft-bukkit)
+- [TrixCore (bungee) v1.0.2](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.2/trixcore-bungee-1.0.2.jar) [![](https://jitpack.io/v/eu.trixcms/trixcore-minecraft-sponge.svg)](https://jitpack.io/#eu.trixcms/trixcore-minecraft-bungee)
+- [TrixCore (sponge) v1.0.2](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.2/trixcore-sponge-1.0.2.jar) [![](https://jitpack.io/v/eu.trixcms/trixcore-minecraft-sponge.svg)](https://jitpack.io/#eu.trixcms/trixcore-minecraft-sponge)
+- [TrixCore (velocity) v1.0.2](https://github.com/TrixCMS-V-2/trixcore-for-minecraft/releases/download/v1.0.2/trixcore-velocity-1.0.2.jar) [![](https://jitpack.io/v/eu.trixcms/trixcore-minecraft-sponge.svg)](https://jitpack.io/#eu.trixcms/trixcore-minecraft-velocity)
 
 
 ## Installation
